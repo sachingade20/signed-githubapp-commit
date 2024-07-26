@@ -1,4 +1,4 @@
-name: 'Create GitHub Commit'
+name: 'Create GitHub Commit from Github App'
 description: 'Create Commit'
 author: 'qoomon'
 branding:
